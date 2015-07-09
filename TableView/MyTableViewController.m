@@ -12,7 +12,6 @@
     NSArray *day;
     NSArray *comment;
     NSArray *listColor;
-
 }
 
 @end
@@ -30,7 +29,7 @@
     
     comment = [NSArray arrayWithObjects:@"hari pertama",@"hari kedua",@"hari ketiga",@"hari ke empat",@"hari ke lima",@"hari ke enam",@"hari ke tujuh", nil];
     
-    listColor = [NSArray arrayWithObjects:[UIColor redColor],[UIColor orangeColor],[UIColor yellowColor],[UIColor greenColor], [UIColor blueColor], [UIColor magentaColor], [UIColor purpleColor], nil];
+    listColor = [NSArray arrayWithObjects:[UIColor redColor],[UIColor orangeColor],[UIColor yellowColor],[UIColor greenColor], [UIColor blueColor], [UIColor purpleColor], [UIColor magentaColor], nil];
     
     
 
